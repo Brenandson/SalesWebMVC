@@ -34,3 +34,8 @@ C:\Users\breno\Documents\Dev\Cursos\C#\udemy\Workplace\SalesWebMVC\SalesWebMVC\o
 C:\Users\breno\Documents\Dev\Cursos\C#\udemy\Workplace\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\breno\Documents\Dev\Cursos\C#\udemy\Workplace\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\breno\Documents\Dev\Cursos\C#\udemy\Workplace\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
+C:\Users\breno\Documents\Dev\Cursos\C#\udemy\Workplace\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\breno\Documents\Dev\Cursos\C#\udemy\Workplace\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\breno\Documents\Dev\Cursos\C#\udemy\Workplace\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\breno\Documents\Dev\Cursos\C#\udemy\Workplace\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\breno\Documents\Dev\Cursos\C#\udemy\Workplace\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
